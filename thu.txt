@@ -1,0 +1,1 @@
+Remove in list, remove the value in the list but pop will remove the last value in the list and if the index is specified it will remove the specified index in the list

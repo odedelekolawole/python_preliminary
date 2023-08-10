@@ -1,0 +1,7 @@
+Assignment
+1) Declare two variable with your first name and last name and assignment to them your first name and last anme simulteneously
+2) Retrieve the first three letter of the first name
+3) Retrieve the last three letter of the last name
+4) Join the two names
+5) Return the number of character in the combined names
+6) Display all the character in the name.

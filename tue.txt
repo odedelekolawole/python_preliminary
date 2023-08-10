@@ -1,0 +1,3 @@
+String is create and assigned to a values
+Accessing character/element of a string of a String
+Note that string are immutable
